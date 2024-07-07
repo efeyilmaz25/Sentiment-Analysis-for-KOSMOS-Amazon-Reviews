@@ -1,4 +1,4 @@
-# Sentiment_Analysis_for_KOSMOS_Amazon_Reviews
+# Sentiment Analysis for KOSMOS Amazon Reviews
 
 ----- Business Problem -----
 
